@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\bin\Debug\CuaHangVLXD.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\bin\Debug\CuaHangVLXD.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\CuaHangVLXD\UnitTesting\obj\Debug\UnitTesting.pdb
